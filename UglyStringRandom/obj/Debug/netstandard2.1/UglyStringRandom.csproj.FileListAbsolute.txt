@@ -1,0 +1,9 @@
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\bin\Debug\netstandard2.1\UglyStringRandom.deps.json
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\bin\Debug\netstandard2.1\UglyStringRandom.dll
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\bin\Debug\netstandard2.1\UglyStringRandom.pdb
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.csprojAssemblyReference.cache
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.AssemblyInfoInputs.cache
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.AssemblyInfo.cs
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.csproj.CoreCompileInputs.cache
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.dll
+C:\WK_SourceCode\UglyStringRandom\UglyStringRandom\obj\Debug\netstandard2.1\UglyStringRandom.pdb

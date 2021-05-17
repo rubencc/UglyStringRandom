@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WK_SourceCode\\UglyStringRandom\\UglyStringRandom\\UglyStringRandom.csproj": {}
+  },
+  "projects": {
+    "C:\\WK_SourceCode\\UglyStringRandom\\UglyStringRandom\\UglyStringRandom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WK_SourceCode\\UglyStringRandom\\UglyStringRandom\\UglyStringRandom.csproj",
+        "projectName": "UglyStringRandom",
+        "projectPath": "C:\\WK_SourceCode\\UglyStringRandom\\UglyStringRandom\\UglyStringRandom.csproj",
+        "packagesPath": "C:\\Users\\ruben.carretero\\.nuget\\packages\\",
+        "outputPath": "C:\\WK_SourceCode\\UglyStringRandom\\UglyStringRandom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ruben.carretero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\NugetLocal": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://np-dev-ci.northeurope.cloudapp.azure.com/TASuiteNUGET/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
